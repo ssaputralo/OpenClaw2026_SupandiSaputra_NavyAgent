@@ -20,7 +20,7 @@ Juri tidak perlu melakukan instalasi apa pun. Untuk melihat Navi beraksi secara 
 Proyek ini dibangun dengan fokus pada **Persistence** (ketahanan) dan **Scalability** (skalabilitas):
 
 * **Logic Bridge:** FastAPI & Python (Dijalankan di Sumopod).
-* **AI Brain:** QwenPaw Agent (Agent ID: `PhAtXm`) berbasis AgentScope Runtime.
+* **AI Brain:** QwenPaw Agent berbasis AgentScope Runtime.
 * **Automation Broker:** Repliz (Webhook & TikTok API Integration).
 * **Connectivity:** Cloudflare Tunnel (Secure tunneling dari local-to-web).
 * **Process Management:** **PM2** (Memastikan sistem tetap *online* 24/7 dan melakukan *auto-restart* jika terjadi kegagalan).
