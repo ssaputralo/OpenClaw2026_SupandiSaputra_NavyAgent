@@ -1,0 +1,89 @@
+=== comment ===
+  "abdicomment.firebasestorage.app"
+  "comment"
+  "assets/Comment-BCuCzCWR.js"
+  "abdicomment"
+  "abdicomment.firebaseapp.com"
+  "/user/comment"
+  "assets/Comment-Damm18KN.js"
+  "),u.comment=d.some(f=>f=="
+  "assets/comment.service-SWj2QyeB.js"
+  "feature.menu.comment"
+
+=== like ===
+  ",like:"
+  ",dislike:"
+  ",section:{like:"
+  "}},like:{title:"
+  "))),t?t(s,i,o):!0}};sl.spelling=function(t){return(n,r)=>(console.warn(`${r} is likely a misspelling of ${t}`),!0)};function JT(e,t,n){if(typeof e!="
+
+=== reply ===
+  "Reply..."
+  ",action:{reply:"
+  "},seeReply:"
+  "DM Reply"
+  ",reply:"
+  't reply because the last message was sent over 24 hours ago."
+
+=== dm ===
+  "G-DMP8GMV5WM"
+  "],function(e,t,n,r){var a=n._locale.monthsParse(e,r,n._strict);a!=null?t[Wn]=a:Ae(n).invalidMonth=e});var Y4="
+  "assets/file.service-DmRk0ada.js"
+  "feature.menu.admin.transaction"
+  "/admin"
+  "assets/index-BLDMlcCt.js"
+  "feature.title.admin"
+  "feature.menu.admin.dashboard"
+  "/admin/dashboard"
+  "/admin/transaction"
+
+=== message ===
+  "),Mr.onmessage=e=>{bp(e.data.key,e.data.fid)}),Mr}function yy(){_p.size===0&&Mr&&(Mr.close(),Mr=null)}const by="
+  ",{originalErrorMessage:t?.message});qn.warn(n.message)}}}async function Pf(e,t){try{const r=(await sp()).transaction(is,"
+  ",{requestName:e,serverCode:r.code,serverMessage:r.message,serverStatus:r.status})}function mp({apiKey:e}){return new Headers({"
+  "Error thrown when opening IndexedDB. Original error: {$originalErrorMessage}."
+  "Dynamic config fetch failed: [{$httpStatus}] {$responseMessage}"
+  "{$serverCode} {$serverStatus}: {$serverMessage}"
+  "Error thrown when reading from IndexedDB. Original error: {$originalErrorMessage}."
+  "Error thrown when writing to IndexedDB. Original error: {$originalErrorMessage}."
+  ");await r.objectStore(is).put(t,ip(e)),await r.done}catch(n){if(n instanceof Jr)qn.warn(n.message);else{const r=pr.create("
+  "Error thrown when deleting from IndexedDB. Original error: {$originalErrorMessage}."
+
+=== inbox ===
+  ",inbox:"
+  "Unified Inbox"
+  "feature.title.inbox"
+
+=== automation ===
+  "automation_template"
+  "/user/automation"
+  "automation_content"
+  "assets/automation.service-Da7-i4xR.js"
+  "),u.automation=d.some(f=>f=="
+  "},hasAccess:i.value.automation,show:!0},{title:t("
+  "feature.menu.automation"
+  "assets/Automation-COXAGeIT.js"
+
+=== rule ===
+  "Set Your Rules"
+  "__setPluralRules"
+  "Save your time from replying one by one. Set automation rules to reply, like, delete spam, and send DMs instantly to your audience."
+
+=== social ===
+  "Start automating your social media interactions in three simple steps."
+  "Which social media platforms do you support?"
+  "Ready to {automate} your socials?"
+  "Everything you need to manage socials"
+  "Social Media {comment} Automation, Fast & Effortless"
+  "Link your favorite social media platforms securely in just a few clicks. No complex setup required."
+
+=== tiktok ===
+  "),m.hashtagTikTok=g.some(p=>p=="
+  "assets/TikTok-BiX6TzNn.js"
+  "),m.contentTikTok=g.some(p=>p=="
+  "),u.hashtagTikTok=d.some(f=>f=="
+  "},hasAccess:i.value.contentTikTok,show:!0}]},{title:t("
+  "assets/account.tiktok.service-Cf0swyI0.js"
+  "feature.menu.hashtagTikTok"
+  "},hasAccess:i.value.hashtagTikTok,show:!0},{title:t("
+  "),u.contentTikTok=d.some(f=>f=="

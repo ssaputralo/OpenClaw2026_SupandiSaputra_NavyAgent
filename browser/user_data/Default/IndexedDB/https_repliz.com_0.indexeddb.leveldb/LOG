@@ -1,0 +1,14 @@
+2026/05/15-14:35:00.949 14082 Reusing MANIFEST /app/working/workspaces/PhAtXm/browser/user_data/Default/IndexedDB/https_repliz.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/15-14:35:00.949 14082 Recovering log #73
+2026/05/15-14:35:00.950 14082 Reusing old log /app/working/workspaces/PhAtXm/browser/user_data/Default/IndexedDB/https_repliz.com_0.indexeddb.leveldb/000073.log 
+2026/05/15-14:35:00.950 14082 Delete type=2 #71
+2026/05/15-14:35:00.956 14082 Level-0 table #78: started
+2026/05/15-14:35:00.957 14082 Level-0 table #78: 2046 bytes OK
+2026/05/15-14:35:00.958 14082 Delete type=0 #73
+2026/05/15-14:35:00.958 14082 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1160 : 1
+2026/05/15-14:35:00.958 14082 Compacting 1@0 + 1@1 files
+2026/05/15-14:35:00.960 14082 Generated table #79@0: 228 keys, 3709 bytes
+2026/05/15-14:35:00.960 14082 Compacted 1@0 + 1@1 files => 3709 bytes
+2026/05/15-14:35:00.961 14082 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/15-14:35:00.962 14082 Delete type=2 #78
+2026/05/15-14:35:00.962 14082 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1160 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)

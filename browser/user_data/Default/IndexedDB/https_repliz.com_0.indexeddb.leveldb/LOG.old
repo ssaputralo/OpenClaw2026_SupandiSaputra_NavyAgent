@@ -1,0 +1,14 @@
+2026/05/15-11:41:10.030 acfb Reusing MANIFEST /app/working/workspaces/PhAtXm/browser/user_data/Default/IndexedDB/https_repliz.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/15-11:41:10.031 acfb Recovering log #69
+2026/05/15-11:41:10.032 acfb Reusing old log /app/working/workspaces/PhAtXm/browser/user_data/Default/IndexedDB/https_repliz.com_0.indexeddb.leveldb/000069.log 
+2026/05/15-11:41:10.032 acfb Delete type=2 #67
+2026/05/15-11:41:10.039 acfe Level-0 table #74: started
+2026/05/15-11:41:10.040 acfe Level-0 table #74: 2046 bytes OK
+2026/05/15-11:41:10.041 acfe Delete type=0 #69
+2026/05/15-11:41:10.041 acfb Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 1117 : 1
+2026/05/15-11:41:10.042 acfb Compacting 1@0 + 1@1 files
+2026/05/15-11:41:10.043 acfb Generated table #75@0: 228 keys, 3705 bytes
+2026/05/15-11:41:10.043 acfb Compacted 1@0 + 1@1 files => 3705 bytes
+2026/05/15-11:41:10.043 acfb compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/15-11:41:10.044 acfb Delete type=2 #74
+2026/05/15-11:41:10.044 acfb Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 1117 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)

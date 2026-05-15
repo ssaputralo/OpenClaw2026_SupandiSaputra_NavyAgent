@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "channel": "console",
+      "created_at": "2026-05-15T09:12:25.007843Z",
+      "id": "90c35f79-0eb1-440b-b4d7-97f1822c35e5",
+      "meta": {},
+      "name": "Navi, ada ",
+      "pinned": false,
+      "session_id": "tiktok-User",
+      "status": "idle",
+      "updated_at": "2026-05-15T14:35:21.346932Z",
+      "user_id": "repliz-bridge"
+    }
+  ],
+  "version": 1
+}

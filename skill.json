@@ -1,0 +1,32 @@
+{
+  "schema_version": "workspace-skill-manifest.v1",
+  "version": 1778855690686,
+  "skills": {
+    "repliz_tiktok": {
+      "enabled": true,
+      "channels": [
+        "telegram"
+      ],
+      "source": "customized",
+      "metadata": {
+        "name": "repliz_tiktok",
+        "description": "Kumpulan alat untuk berinteraksi dengan TikTok via Repliz API, seperti kirim DM, balas komentar, dan kasih Like.",
+        "version_text": "",
+        "commit_text": "",
+        "source": "customized",
+        "protected": false,
+        "requirements": {
+          "require_bins": [],
+          "require_envs": []
+        },
+        "updated_at": "2026-05-15T10:40:09.393416Z"
+      },
+      "requirements": {
+        "require_bins": [],
+        "require_envs": []
+      },
+      "updated_at": "2026-05-15T10:40:09.393416Z",
+      "config": {}
+    }
+  }
+}
