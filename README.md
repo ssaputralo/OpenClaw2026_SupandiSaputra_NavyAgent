@@ -1,4 +1,4 @@
-# OpenClaw2026_SupandiSaputra_NavyAgent
+# OpenClaw2026_SupandiSaputra_NaviAgent
 
 # 🤖 Navi: Intelligent TikTok Community Agent
 
